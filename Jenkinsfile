@@ -1,3 +1,6 @@
+triggers {
+  pollSCM ''
+}
 pipeline {
     agent any
 
